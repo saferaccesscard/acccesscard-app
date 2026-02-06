@@ -1,0 +1,25 @@
+# System Files
+.DS_Store
+.env
+.env.local
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+ios/
+android/
+
+# Backend (Amplify)
+amplify/.config/
+.amplify/
+amplify_outputs.json
+
+# IDE
+.vscode/
+.idea/

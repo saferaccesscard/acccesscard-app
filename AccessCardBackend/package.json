@@ -1,0 +1,23 @@
+{
+    "name": "accesscard-backend",
+    "version": "1.0.0",
+    "description": "Amplify Gen 2 Backend for AccessCard Ecosystem",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@aws-amplify/backend": "^1.0.0",
+        "@aws-amplify/backend-cli": "^1.0.0",
+        "aws-cdk-lib": "^2.130.0",
+        "constructs": "^10.3.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "esbuild": "^0.20.0",
+        "tsx": "^4.7.0"
+    }
+}
